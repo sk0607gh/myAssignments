@@ -1,7 +1,0 @@
-NOTE:
-
-PROGRAMMING LANGUAGE  VS  SCRIPTING LANGUAGE
-=========================================================================================================================
-JAVA Script is not basically designed to be a Programming Language. It was designed to be a SCRIPTING Language.
-In a Proper Programming Language like in JAVA/C++ we cannot redeclare or Reassign a VALUE, whereas in JS we can do that, 
-hence it is for this reason they say JS is a scripting Language and not a Programming Language.
